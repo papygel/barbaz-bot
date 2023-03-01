@@ -1,0 +1,15 @@
+__**Commande /new-session**__
+La commande `/new-session` peut être utilisée dans tous les canaux où il est possible d'envoyer des messages. Elle sert à proposer une session de jeu avec un formatage automatique. Le message affiche aussi les membres qui participent à la session.
+
+__Syntaxe__
+Comme c'est une commande slash, il y a une aide intégrée qui s'affiche à mesure que vous tapez. Mais, au cas où, voici la syntaxe à respecter, où [] représente un argument obligatoire et () représente un argument facultatif :
+```/new-session [rôle] (date au format yyyy-MM-dd) (heure au format HH:mm) (description)```
+Si vous choisissez le rôle spécial @random, la commande proposera un jeu au hasard parmi les rôles que tous les participants ont en commun.
+
+__Exemples__
+Session GTA Online le 28 janvier 2023 à 21h30 avec pour description "Preparation de la mission finale du casino"
+```/new-session role:@GTAO date:2023-01-28 time:21:30 desc:Preparation de la mission finale du casino```
+Session Titanfall 2 le jour-même à 18h sans description
+```/new-session role:@TF2 time:18:00```
+Session Overwatch maintenant tout de suite avec pour description "Dépêchez-vous je veux farmer des crédits qui servent à rien"
+```/new-session role:@OW desc:Dépêchez-vous je veux farmer des crédits qui servent à rien```

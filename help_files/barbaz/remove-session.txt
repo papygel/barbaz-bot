@@ -1,0 +1,5 @@
+__**Commande /remove-session**__
+La commande `/remove-session` sert à supprimer une session existante. Attention, vous ne pouvez supprimer que des sessions que vous avez créées.
+
+__Syntaxe__
+```/remove-session [id du message de la session]```
