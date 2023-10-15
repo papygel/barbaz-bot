@@ -1,0 +1,9 @@
+# Commande /remove-message
+La commande `/remove-message` sert à supprimer plusieurs messages à la fois. Elle n'est utilisable que par les membres qui ont la permission "manage messages", c'est-à-dire presque personne. Elle peut être utilisée dans tous les canaux où il est possible d'envoyer des messages.
+
+## Syntaxe
+Comme c'est une commande slash, il y a une aide intégrée qui s'affiche à mesure que vous tapez. Mais, au cas où, voici la syntaxe à respecter, où [] représente un argument obligatoire et () représente un argument facultatif :
+```/new-session [entier entre 1 et 100]```
+## Exemples
+Suppresssion des 20 derniers messages envoyés dans le canal où on utilise la commande
+```/remove-message amount:20```

@@ -1,0 +1,14 @@
+# Désactiver l'accélaration souris
+L'accélération souris, c'est le mal. C'est le mal pour les jeux, et c'est aussi le mal pour tout le reste. Pour la désactiver :
+
+1.  Faites **Windows+I**
+    La fenêtre Paramètres s'ouvre.
+2.  Allez dans **Périphériques** > **Souris**
+3.  Cliquez sur **Options supplémentaires de souris** en haut à droite de la fenêtre
+    La fenêtre Propriétés de la souris s'ouvre.
+4.  Cliquez sur l'onglet **Options du pointeur**
+5.  Décochez la case à cocher **Améliorer la précision du pointeur**
+6.  Juste au-dessus de ladite case, vérifiez que que la vitesse du pointeur est bien au milieu (6/11)
+7.  Cliquez sur **OK**
+
+Si après ça, la vitesse de votre pointeur ne vous convient pas, changez les dpi de votre souris. Ne touchez pas aux réglages Windows.

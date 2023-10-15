@@ -1,0 +1,5 @@
+# Commande /set-role
+La commande `/set-role` sert à modifier ses rôles soi-même. En revanche elle ne permet que de modifier les rôles de jeu, c'est à dire ceux utilisés pour pinger lors de création de sessions.
+
+## Syntaxe
+```/set-role```

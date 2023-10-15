@@ -1,0 +1,14 @@
+# Remettre le son du micro à fond
+
+Parfois Windaube fait sa vie sans demander l'avis de l'utilisateur. Et parfois, ça veut dire qu'il passe le volume de votre micro à 80%. Pour le remettre à ~~11~~ 100% :
+
+1.  Faites **Windows+R**
+    La fenêtre Executer s'ouvre.
+2.  Tapez `mmsys.cpl` et faites **Entrée**
+    La fenêtre Son s'ouvre.
+3.  Cliquez sur l'onglet **Enregistrement**
+4.  Sélectionnez votre micro et cliquez sur ** Propriétés**
+    La fenêtre Propriétés du microphone s'ouvre.
+5.  Cliquez sur l'onglet **Niveaux**
+6.  Poussez le curseur à 100 s'il n'y est pas déjà
+7.  Cliquez sur **OK**

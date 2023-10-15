@@ -1,0 +1,16 @@
+# Obtention d'un jeu avec Mega
+
+__Prérequis__
+- Avoir installé [7-Zip](https://www.7-zip.org/a/7z2201-x64.exe)
+
+1. Ouvrez un de nos dépôts Mega :
+* [Dépôt de papygel](https://mega.nz/folder/JYBwTIJY#nYJ7oUg9PmA08yrTLayupg)
+2. Faites clic droit sur l'archive du jeu que vous voulez installer > **Download...** > **Standard download**
+    Le téléchargement se lance.
+3. Attendez que le téléchargement soit fini
+4. Ouvrez votre dossier de téléchargement
+5. Faites clic droit sur l'archive du jeu au format zip > **7-Zip** > **Extract Here**
+    7-Zip décompresse l'archive et vous obtenez une nouvelle archive, au format 7z.
+6. Faites clic droit sur l'archive du jeu au format 7z > **7-Zip** > **Extract to "_nomdelarchive_\\"**
+7. Entrez le mot de passe des archives 7z : `halalalatsouintsouinlesptitesboules`
+    7-Zip décompresse l'archive et vous obtenez un dossier.

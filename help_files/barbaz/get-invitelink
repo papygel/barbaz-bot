@@ -1,0 +1,6 @@
+# Commande /get-invitelink
+La commande `/get-invitelink` sert à récupérer le lien d'invitation au serveur. Il s'agit du lien à transmettre aux personnes que vous voulez inviter dans TeubChef. Pour rappel, vous ne pouvez inviter que des personnes qui connaissent au moins un membre du serveur IRL. DarkZuubs est l'exception qui confirme la règle.
+
+## Syntaxe
+```/get-invitelink```
+Eh, ouais. Elle est pas bien compliquée celle-là.

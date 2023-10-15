@@ -1,0 +1,12 @@
+# Installation de Northstar
+Pour installer Northstar, la meilleure approche consiste à utiliser un launcher ou un gestionnaire. Cette procédure utilise le gestionnaire VTOL, qui permet également de gérer les mods et les serveurs.
+
+1. Téléchargez la dernière version de .NET Runtime : https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+2. Installez-la
+3. Téléchargez la dernière version de VTOL : https://github.com/BigSpice/VTOL/releases/latest/download/VTOL_Installer.msi
+4. Installez-la
+    L'installeur vous demandera peut-être d'installer d'autres version du .NET Runtime. Acceptez.
+5. Lancez VTOL en tant qu'administrateur
+    Si VTOL trouve votre dossier d'installation Titanfall 2 tout seul, il lance automatiquement l'installation de Northstar.
+6. Si VTOL ne trouve pas votre dossier d'installation, cliquez sur **Locate Titanfall 2 Install** et sélectionnez votre dossier d'installation de Titanfall 2
+    VTOL lance automatiquement l'installation de Northstar.

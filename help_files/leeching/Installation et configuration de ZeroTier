@@ -1,0 +1,10 @@
+# Installation et configuration de ZeroTier
+
+1. Téléchargez [ZeroTier](https://download.zerotier.com/dist/ZeroTier%20One.msi)
+2. Installez-le
+3. Lancez **ZeroTier** s'il n'est pas déjà en route
+4. Cliquez sur l'icone **ZeroTier** dans la zone de notifications en bas à droite de votre écran
+5. Cliquez sur **Join New Network...**
+    Une fenêtre s'ouvre.
+6. Entrez `d5e5fb6537fc9cc4` et cliquez sur **Join**
+7. Demandez à l'administrateur d'autoriser votre adresse sur le réseau

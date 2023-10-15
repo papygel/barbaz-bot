@@ -1,0 +1,5 @@
+# Commande /get-session
+La commande `/get-session` sert à obtenir des informations sur les sessions existantes. Elle donne notamment l'id du message auquel la session est rattachée, ce qui est nécessaire pour utiliser la commande `/edit-session`.
+
+## Syntaxe
+```/get-session```

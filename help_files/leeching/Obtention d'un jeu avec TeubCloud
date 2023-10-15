@@ -1,0 +1,18 @@
+# Obtention d'un jeu avec TeubCloud
+
+__Prérequis__
+- Avoir installé [7-Zip](https://www.7-zip.org/a/7z2201-x64.exe)
+
+1. Ouvrez [TeubCloud](https://129.151.232.89/index.php)
+    Votre navigateur affiche peut-être un message d'avertissement. C'est normal, c'est un certificat auto-signé.
+2. Connectez-vous si ce n'est pas déjà fait
+3. Cliquez sur **Files** en haut à gauche de l'écran
+4. Ouvrez le dossier partagé **games**
+5. Ouvrez le dossier du jeu que vous voulez
+6. Faites clic droit sur l'archive contenant `_STP` (pour Setup) > **Download**
+    Le téléchargement se lance.
+7. Attendez que le téléchargement soit terminé
+8. Ouvrez votre dossier de téléchargement
+7. Faites clic droit sur l'archive que vous venez de télécharger > **7-Zip** > **Extract to "_nomdelarchive_\\"**
+8. Entrez le mot de passe si on vous le demande : `halalalatsouintsouinlesptitesboules`
+    7-Zip décompresse l'archive et vous obtenez un dossier.

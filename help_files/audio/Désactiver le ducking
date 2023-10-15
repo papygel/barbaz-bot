@@ -1,0 +1,11 @@
+# Désactiver le ducking
+
+Vous avez déjà eu ce problème relou où quand quelqu'un parle dans un chat, le son de votre jeu baisse, ou inversement ? Ouais, c'est chiant, hein ? C'est une fonctionnalité pourrie activée par défaut sur Windaube. Pour la désactiver :
+
+1.  Faites **Windows+R**
+    La fenêtre Executer s'ouvre.
+2.  Tapez `mmsys.cpl` et faites **Entrée**
+    La fenêtre Son s'ouvre.
+3.  Cliquez sur l'onglet **Communications**
+4.  Sélectionnez le bouton radio **Ne rien faire**
+5.  Cliquez sur **OK**
