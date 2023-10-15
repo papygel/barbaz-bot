@@ -1,6 +1,0 @@
-__**Commande /get-invitelink**__
-La commande `/get-invitelink` sert à récupérer le lien d'invitation au serveur. Il s'agit du lien à transmettre aux personnes que vous voulez inviter dans le serveur.
-
-__Syntaxe__
-```/get-invitelink```
-Eh, ouais. Elle est pas bien compliquée celle-là.
